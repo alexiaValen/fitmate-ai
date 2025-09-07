@@ -1,2 +1,2 @@
 # fitmate-ai
-AI outfit stylist
+ An app that creates personalized workout & meal plans with AI.
