@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/74ca2_next_dist_1d206700._.js",
+      "static/chunks/hackathon_fitmate-ai_fitmate-ai-app_src_app_favicon_ico_mjs_444e9c47._.js",
+      "static/chunks/[root-of-the-server]__eb02555f._.css",
+      "static/chunks/hackathon_fitmate-ai_fitmate-ai-app_src_app_layout_tsx_41102878._.js",
+      "static/chunks/74ca2_next_dist_client_components_builtin_global-error_257e958b.js",
+      "static/chunks/74ca2_next_dist_766f14cd._.js",
+      "static/chunks/hackathon_fitmate-ai_fitmate-ai-app_src_app_page_tsx_257e958b._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fe40729a._.js",
+      "static/chunks/74ca2_next_dist_compiled_react-dom_d8da9776._.js",
+      "static/chunks/74ca2_next_dist_compiled_next-devtools_index_90893ffa.js",
+      "static/chunks/74ca2_next_dist_compiled_9ae8562b._.js",
+      "static/chunks/74ca2_next_dist_client_48866c18._.js",
+      "static/chunks/74ca2_next_dist_156d023a._.js",
+      "static/chunks/74ca2_@swc_helpers_cjs_7628c00b._.js",
+      "static/chunks/hackathon_fitmate-ai_fitmate-ai-app_a0ff3932._.js",
+      "static/chunks/turbopack-hackathon_fitmate-ai_fitmate-ai-app_14a5f882._.js"
+    ]
+  }
+}
